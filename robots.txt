@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://gmedina.github.io/sitemap.xml 
+Sitemap: http://gustavo.medina.nyc/sitemap.xml 
